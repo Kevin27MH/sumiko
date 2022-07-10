@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    width: 100Vw;
+    height: 100vh;
+    background: rgb(255, 123, 0);
+}
+
+.container{
+    display: flex;
+    margin: 0 auto;
+    
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 95vw;
+    height: 80vh;
+    background: rgb(4, 120, 235);
+}
+
+.services{
+    width: 45%;
+    height: 45%;
+    background: gray;
+    opacity: 50%;
+}
+
+.products{
+    width: 45%;
+    height: 45%;
+    background: gray;
+    opacity: 50%;
+}
+
+.reserve{
+    width: 45%;
+    height: 45%;
+    background: gray;
+    opacity: 50%;
+}
+
+.others{
+    width: 45%;
+    height: 45%;
+    background: gray;
+    opacity: 50%;
+}
