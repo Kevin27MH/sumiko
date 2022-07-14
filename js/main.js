@@ -14,7 +14,7 @@ function verifyOption(event){
         if(event.target.classList[1] === optionList[x]){
             return optionList[x];
         }else{
-            alert('click em alguma opção');
+            
             return;
         }
     }
