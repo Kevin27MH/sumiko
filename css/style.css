@@ -22,6 +22,10 @@ body{
     margin: 2%;
 }
 
+.title a{
+    text-decoration: none;
+}
+
 .container{
     display: flex;
     margin: 1%;
