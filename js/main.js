@@ -37,3 +37,5 @@ function loadOption(opt) {
         }
     }
 }
+
+let x = 1;

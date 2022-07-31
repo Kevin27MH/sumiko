@@ -19,7 +19,7 @@ body{
     color: rgb(0, 20, 122);
     font-size: 3.6rem;
     font-weight: 800;
-    margin: 2%;
+    margin: 10px;
 }
 
 .title a{
@@ -50,7 +50,7 @@ body{
     align-items: center;
 }
 
-.services{
+.cardapio{
 
 }
 
